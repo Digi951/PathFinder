@@ -1,0 +1,15 @@
+/Users/digi/Programmierung/PathFinder/bin/Debug/net5.0/PathFinder.deps.json
+/Users/digi/Programmierung/PathFinder/bin/Debug/net5.0/PathFinder.runtimeconfig.json
+/Users/digi/Programmierung/PathFinder/bin/Debug/net5.0/PathFinder.runtimeconfig.dev.json
+/Users/digi/Programmierung/PathFinder/bin/Debug/net5.0/PathFinder.dll
+/Users/digi/Programmierung/PathFinder/bin/Debug/net5.0/ref/PathFinder.dll
+/Users/digi/Programmierung/PathFinder/bin/Debug/net5.0/PathFinder.pdb
+/Users/digi/Programmierung/PathFinder/obj/Debug/net5.0/PathFinder.csprojAssemblyReference.cache
+/Users/digi/Programmierung/PathFinder/obj/Debug/net5.0/PathFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/digi/Programmierung/PathFinder/obj/Debug/net5.0/PathFinder.AssemblyInfoInputs.cache
+/Users/digi/Programmierung/PathFinder/obj/Debug/net5.0/PathFinder.AssemblyInfo.cs
+/Users/digi/Programmierung/PathFinder/obj/Debug/net5.0/PathFinder.csproj.CoreCompileInputs.cache
+/Users/digi/Programmierung/PathFinder/obj/Debug/net5.0/PathFinder.dll
+/Users/digi/Programmierung/PathFinder/obj/Debug/net5.0/ref/PathFinder.dll
+/Users/digi/Programmierung/PathFinder/obj/Debug/net5.0/PathFinder.pdb
+/Users/digi/Programmierung/PathFinder/obj/Debug/net5.0/PathFinder.genruntimeconfig.cache
