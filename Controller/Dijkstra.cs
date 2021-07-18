@@ -10,5 +10,10 @@ namespace PathFinder
         {
             throw new System.NotImplementedException();
         }
+
+        private void GetAdjacentMatrixFromMaze()
+        {
+            
+        }
     }
 }

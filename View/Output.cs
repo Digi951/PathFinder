@@ -25,7 +25,7 @@ namespace PathFinder
             Console.WriteLine();          
         }
 
-        public static void PrintMaze(object[,] maze)
+        public static void PrintMaze(int[,] maze)
         {
             Console.Write(new string('-', maze.GetLength(0) * 2 + 2));
 

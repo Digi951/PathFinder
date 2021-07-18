@@ -42,8 +42,8 @@ namespace PathFinder
                 currentCoordinate = ((int, int)) _bfsQueue.Dequeue();                
 
                 //North, East, South, West directions
-                var directionRow = new int[] {-1, 1, 0, 0};
-                var directionColumn = new int[] {0, 0, 1, -1};
+                var directionRow = new int[] {-1, 0, 1, 0};
+                var directionColumn = new int[] {0, 1, 0, -1};
 
                 for (int i = 0; i < 4; i++)
                 {
